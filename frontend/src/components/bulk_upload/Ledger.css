@@ -1,0 +1,231 @@
+/* Layout wrapper for sidebar + content */
+.page-layout {
+    display: flex;
+    min-height: 100vh;
+    background-color: #f8f9fa;
+  }
+  
+  /* Sidebar (already styled in Sidebar.css) */
+  
+  .main-content {
+    margin-top: auto;
+    flex: 1;
+    padding: 20px;
+    margin-left: 220px; /* if Sidebar is fixed */
+  }
+  
+  /* Optional override if sidebar is not fixed */
+  .sidebar {
+    width: 220px;
+    min-height: calc(100vh - 60px); /* Subtract navbar height */
+    background-color: #343a40;
+    color: white;
+    padding-top: 69px;
+    /* position: relative; ✅ Let it sit inside the flex layout */
+  }
+  
+  /* Ensure .journal-wrapper uses full width available */
+  .journal-wrapper {
+    padding: 20px;
+  }
+  .journal-wrapper {
+    margin-top: 50px;
+    margin-left: 220px; /* match your sidebar width */
+    padding: 20px;
+    background-color: #f8f9fa;
+    min-height: 100vh;
+  }
+  
+  .journal-container {
+    max-width: 800px;
+  }
+  
+  .buttons .btn {
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  
+  .buttons .btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+  }
+  
+  .upload-label .btn {
+    cursor: pointer;
+    padding: 12px 25px;
+    font-size: 18px;
+  }
+  
+  .upload-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-dashed: 2px #28a745;
+    background-color: #f9f9f9;
+  }
+  
+  .upload-section:hover {
+    background-color: #f0fff3;
+  }
+  
+  .upload-remarks p {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 0;
+  }
+  
+  .upload-rules ul {
+    margin-top: 10px;
+    padding-left: 20px;
+  }
+  
+  .upload-rules li {
+    margin-bottom: 5px;
+    font-size: 15px;
+  }
+  .navbar {
+    height: 60px;
+    z-index: 1000;
+  }
+  
+  .ledger-wrapper {
+    padding: 1rem;
+    height: calc(100vh - 60px);
+    overflow-y: auto;
+  }
+  
+  .ledger-container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .upload-label {
+    display: block;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .upload-label:hover {
+    transform: scale(1.05);
+  }
+  
+  .card {
+    transition: all 0.3s ease;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .uploaded-files-section {
+    margin-top: 2rem;
+  }
+  
+  /* Modal styling */
+  .modal-content {
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .modal-header {
+    border-bottom: 1px solid #f0f0f0;
+    padding: 1rem 1.5rem;
+  }
+  
+  .modal-body {
+    padding: 1.5rem;
+  }
+  
+  .modal-footer {
+    border-top: 1px solid #f0f0f0;
+    padding: 1rem 1.5rem;
+  }
+  
+  .modal-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+  }
+  
+  /* Alert styling */
+  .alert {
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+  }
+  
+  .alert-warning {
+    background-color: #fff3cd;
+    border-color: #ffecb5;
+    color: #856404;
+  }
+  
+  .alert-warning button.btn-warning {
+    background-color: #ffc107;
+    border-color: #ffc107;
+    color: #212529;
+    margin-left: 1rem;
+    font-size: 0.875rem;
+  }
+  
+  /* Button styling */
+  .btn {
+    border-radius: 6px;
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    transition: all 0.2s;
+  }
+  
+  .btn-lg {
+    padding: 0.75rem 1.5rem;
+    font-size: 1.125rem;
+  }
+  
+  .btn-sm {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+  }
+  
+  .btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  .btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
+  
+  .btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+  }
+  
+  .btn-danger:hover {
+    background-color: #c82333;
+    border-color: #bd2130;
+  }
+  
+  .btn-outline-danger {
+    color: #dc3545;
+    border-color: #dc3545;
+    background-color: transparent;
+  }
+  
+  .btn-outline-danger:hover {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+  }
+  
+  

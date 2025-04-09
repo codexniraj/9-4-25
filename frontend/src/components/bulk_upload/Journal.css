@@ -1,0 +1,53 @@
+.journal-wrapper {
+  margin-left: 220px; /* match your sidebar width */
+  padding: 20px;
+  background-color: #f8f9fa;
+  min-height: 100vh;
+}
+
+.journal-container {
+  max-width: 800px;
+}
+
+.buttons .btn {
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.buttons .btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+}
+
+.upload-label .btn {
+  cursor: pointer;
+  padding: 12px 25px;
+  font-size: 18px;
+}
+
+.upload-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-dashed: 2px #28a745;
+  background-color: #f9f9f9;
+}
+
+.upload-section:hover {
+  background-color: #f0fff3;
+}
+
+.upload-remarks p {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 0;
+}
+
+.upload-rules ul {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+.upload-rules li {
+  margin-bottom: 5px;
+  font-size: 15px;
+}

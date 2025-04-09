@@ -1,0 +1,386 @@
+2025-03-17 11:04:07,334 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 11:04:07,335 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 11:10:20,621 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 11:10:20,621 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 11:11:01,878 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 11:11:01,966 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 11:15:43,668 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 11:15:43,668 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 11:16:14,271 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 11:16:14,271 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 11:16:20,202 - INFO - 127.0.0.1 - - [17/Mar/2025 11:16:20] "[33mGET /ws/pdf-upload HTTP/1.1[0m" 404 -
+2025-03-17 11:16:52,643 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 11:16:52,644 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 11:17:59,574 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 11:17:59,661 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 11:28:43,418 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 11:28:43,418 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 11:35:27,599 - INFO - WebSocket server thread started
+2025-03-17 11:35:27,676 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 11:35:28,611 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 11:35:28,611 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 11:35:35,135 - INFO - New WebSocket connection 1483845755984
+2025-03-17 11:35:43,370 - INFO - New WebSocket connection 1482158465168
+2025-03-17 11:35:43,377 - INFO - Processing PDF from client 1482158465168
+2025-03-17 11:35:43,448 - INFO - PDF Processed into: output.xlsx
+2025-03-17 11:35:44,456 - ERROR - Failed to delete temporary PDF for client 1482158465168: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmpy643cl1p.pdf'
+2025-03-17 12:07:26,834 - INFO - WebSocket server thread started
+2025-03-17 12:07:26,896 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 12:07:27,852 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 12:07:27,862 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 12:07:34,394 - INFO - New WebSocket connection 2715465063488
+2025-03-17 12:07:54,382 - INFO - New WebSocket connection 2715475112832
+2025-03-17 12:07:54,386 - INFO - Processing PDF from client 2715475112832
+2025-03-17 12:07:54,386 - ERROR - Error for client 2715475112832: Error processing PDF: on_process_pdf() missing 1 required positional argument: 'root'
+2025-03-17 12:07:55,385 - ERROR - Failed to delete temporary PDF for client 2715475112832: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmp7vwpgmzq.pdf'
+2025-03-17 12:08:56,958 - INFO - Processing PDF from client 2715475112832
+2025-03-17 12:08:56,959 - ERROR - Error for client 2715475112832: Error processing PDF: on_process_pdf() missing 1 required positional argument: 'root'
+2025-03-17 12:08:57,967 - ERROR - Failed to delete temporary PDF for client 2715475112832: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmpls0sggrb.pdf'
+2025-03-17 12:10:24,641 - INFO - Processing PDF from client 2715475112832
+2025-03-17 12:10:24,641 - ERROR - Error for client 2715475112832: Error processing PDF: on_process_pdf() missing 1 required positional argument: 'root'
+2025-03-17 12:10:25,652 - ERROR - Failed to delete temporary PDF for client 2715475112832: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmp_6i433ay.pdf'
+2025-03-17 12:20:44,742 - INFO - WebSocket server thread started
+2025-03-17 12:20:44,767 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 12:20:45,755 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 12:20:45,756 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 12:20:50,657 - INFO - New WebSocket connection 2027669170144
+2025-03-17 12:20:53,034 - INFO - New WebSocket connection 2027669535392
+2025-03-17 12:20:53,038 - INFO - Processing PDF from client 2027669535392
+2025-03-17 12:20:53,038 - ERROR - Error for client 2027669535392: Error processing PDF: on_process_pdf() missing 1 required positional argument: 'root'
+2025-03-17 12:20:54,040 - ERROR - Failed to delete temporary PDF for client 2027669535392: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmpbol99dbt.pdf'
+2025-03-17 12:22:41,200 - INFO - WebSocket server thread started
+2025-03-17 12:22:41,225 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 12:22:42,213 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 12:22:42,214 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 12:22:44,367 - INFO - New WebSocket connection 2643179379776
+2025-03-17 12:22:44,372 - INFO - Processing PDF from client 2643179379776
+2025-03-17 12:22:44,372 - ERROR - Error for client 2643179379776: Error processing PDF: on_process_pdf() missing 1 required positional argument: 'root'
+2025-03-17 12:22:45,386 - ERROR - Failed to delete temporary PDF for client 2643179379776: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmpqveyth_c.pdf'
+2025-03-17 12:22:49,373 - INFO - New WebSocket connection 2643189447808
+2025-03-17 12:24:37,503 - INFO - WebSocket server thread started
+2025-03-17 12:24:37,523 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 12:24:38,516 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 12:24:38,516 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 12:24:42,780 - INFO - New WebSocket connection 1818930334656
+2025-03-17 12:24:52,587 - INFO - New WebSocket connection 1818932942208
+2025-03-17 12:24:52,592 - INFO - Processing PDF from client 1818932942208
+2025-03-17 12:24:52,601 - INFO - PDF Processed into: output.xlsx
+2025-03-17 12:24:53,615 - ERROR - Failed to delete temporary PDF for client 1818932942208: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmpqb5amy16.pdf'
+2025-03-17 12:27:22,855 - INFO - Processing PDF from client 1818932942208
+2025-03-17 12:27:22,858 - INFO - PDF Processed into: output.xlsx
+2025-03-17 12:27:23,863 - ERROR - Failed to delete temporary PDF for client 1818932942208: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmpmfea9nvw.pdf'
+2025-03-17 12:29:06,155 - INFO - WebSocket server thread started
+2025-03-17 12:29:06,176 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 12:29:07,166 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 12:29:07,167 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 12:29:12,189 - INFO - New WebSocket connection 2296067951552
+2025-03-17 12:29:22,837 - INFO - New WebSocket connection 2296070084496
+2025-03-17 12:29:22,842 - INFO - Processing PDF from client 2296070084496
+2025-03-17 12:29:22,848 - INFO - PDF Processed into: output.xlsx
+2025-03-17 12:29:23,861 - ERROR - Failed to delete temporary PDF for client 2296070084496: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmpni9a_rt4.pdf'
+2025-03-17 12:29:30,891 - INFO - Processing PDF from client 2296070084496
+2025-03-17 12:29:33,133 - INFO - PDF Processed into: output.xlsx
+2025-03-17 12:29:34,137 - ERROR - Failed to delete temporary PDF for client 2296070084496: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmp9z00d2kv.pdf'
+2025-03-17 12:30:18,823 - INFO - WebSocket server thread started
+2025-03-17 12:30:18,849 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 12:30:18,878 - INFO - New WebSocket connection 2227614761040
+2025-03-17 12:30:18,883 - INFO - Processing PDF from client 2227614761040
+2025-03-17 12:30:18,886 - ERROR - Error for client 2227614761040: Error processing PDF: No /Root object! - Is this really a PDF?
+2025-03-17 12:30:19,835 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 12:30:19,835 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 12:30:19,903 - ERROR - Failed to delete temporary PDF for client 2227614761040: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmpg_42291g.pdf'
+2025-03-17 12:30:25,090 - INFO - New WebSocket connection 2227621936736
+2025-03-17 12:32:49,128 - INFO - Processing PDF from client 2227614761040
+2025-03-17 12:32:49,130 - ERROR - Error for client 2227614761040: Error processing PDF: No /Root object! - Is this really a PDF?
+2025-03-17 12:32:50,139 - ERROR - Failed to delete temporary PDF for client 2227614761040: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmp9jj39ecj.pdf'
+2025-03-17 12:35:19,420 - INFO - Processing PDF from client 2227614761040
+2025-03-17 12:35:19,422 - ERROR - Error for client 2227614761040: Error processing PDF: No /Root object! - Is this really a PDF?
+2025-03-17 12:35:20,426 - ERROR - Failed to delete temporary PDF for client 2227614761040: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmpkhbx00ip.pdf'
+2025-03-17 12:37:49,711 - INFO - Processing PDF from client 2227614761040
+2025-03-17 12:37:49,713 - ERROR - Error for client 2227614761040: Error processing PDF: No /Root object! - Is this really a PDF?
+2025-03-17 12:37:50,723 - ERROR - Failed to delete temporary PDF for client 2227614761040: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmpbu3qbl8j.pdf'
+2025-03-17 15:23:18,368 - INFO - WebSocket server thread started
+2025-03-17 15:23:18,425 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 15:23:19,388 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 15:23:19,389 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 15:23:25,403 - INFO - New WebSocket connection 1754957499568
+2025-03-17 15:27:23,184 - INFO - WebSocket server thread started
+2025-03-17 15:27:23,208 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 15:27:24,196 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 15:27:24,197 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 15:27:29,912 - INFO - New WebSocket connection 2609009520672
+2025-03-17 16:32:41,248 - INFO - server listening on 0.0.0.0:8000
+2025-03-17 16:32:41,253 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 16:32:42,232 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 16:32:42,232 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 16:32:50,132 - INFO - connection open
+2025-03-17 16:32:50,132 - INFO - New WebSocket connection 2089544112640
+2025-03-17 16:34:15,212 - INFO - connection open
+2025-03-17 16:34:15,212 - INFO - New WebSocket connection 2089597210832
+2025-03-17 16:34:18,670 - INFO - connection open
+2025-03-17 16:34:18,670 - INFO - New WebSocket connection 2089597213808
+2025-03-17 16:34:32,374 - INFO - server listening on 0.0.0.0:8000
+2025-03-17 16:34:32,375 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 16:34:33,370 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 16:34:33,371 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 16:34:40,573 - INFO - connection open
+2025-03-17 16:34:40,573 - INFO - New WebSocket connection 2218069711168
+2025-03-17 16:34:48,914 - INFO - connection open
+2025-03-17 16:34:48,915 - INFO - New WebSocket connection 2218122353488
+2025-03-17 16:40:36,366 - INFO - connection open
+2025-03-17 16:40:36,366 - INFO - New WebSocket connection 2218122354400
+2025-03-17 16:52:55,431 - INFO - server listening on 0.0.0.0:8000
+2025-03-17 16:52:55,431 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 16:52:56,422 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 16:52:56,423 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 16:53:02,163 - INFO - connection open
+2025-03-17 16:53:02,164 - INFO - New WebSocket connection 2108264143168
+2025-03-17 16:55:00,137 - INFO - server listening on 0.0.0.0:8000
+2025-03-17 16:55:00,138 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 16:55:01,128 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 16:55:01,129 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 16:55:07,941 - INFO - connection open
+2025-03-17 16:55:07,942 - INFO - New WebSocket connection 2427172623072
+2025-03-17 16:57:35,296 - INFO - server listening on 0.0.0.0:8000
+2025-03-17 16:57:35,297 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 16:57:36,290 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 16:57:36,290 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 16:57:42,100 - INFO - connection open
+2025-03-17 16:57:42,100 - INFO - New WebSocket connection 2600288770368
+2025-03-17 16:58:20,441 - INFO - connection open
+2025-03-17 16:58:20,441 - INFO - New WebSocket connection 2600341871440
+2025-03-17 17:07:58,382 - INFO - server listening on 0.0.0.0:8000
+2025-03-17 17:07:58,383 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 17:07:59,374 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 17:07:59,374 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 17:08:04,713 - INFO - connection open
+2025-03-17 17:08:04,714 - INFO - New WebSocket connection 2586835409216
+2025-03-17 17:10:20,085 - INFO - server listening on 0.0.0.0:8000
+2025-03-17 17:10:20,086 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 17:10:21,082 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 17:10:21,083 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 17:10:27,767 - INFO - connection open
+2025-03-17 17:10:27,767 - INFO - New WebSocket connection 1928977832256
+2025-03-17 17:11:19,478 - INFO - server listening on 0.0.0.0:8000
+2025-03-17 17:11:19,479 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 17:11:20,472 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 17:11:20,473 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 17:11:28,021 - INFO - connection open
+2025-03-17 17:11:28,021 - INFO - New WebSocket connection 1817074981184
+2025-03-17 17:12:34,648 - INFO - server listening on 0.0.0.0:8000
+2025-03-17 17:12:34,649 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 17:12:35,644 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 17:12:35,644 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 17:12:41,071 - INFO - connection open
+2025-03-17 17:12:41,071 - INFO - New WebSocket connection 2229558434112
+2025-03-17 17:16:28,214 - INFO - server listening on 0.0.0.0:8000
+2025-03-17 17:16:28,214 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 17:16:29,212 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 17:16:29,213 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 17:16:34,674 - INFO - connection open
+2025-03-17 17:16:34,675 - INFO - New WebSocket connection 2796231842112
+2025-03-17 17:17:28,522 - INFO - server listening on 0.0.0.0:8000
+2025-03-17 17:17:28,522 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 17:17:29,520 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 17:17:29,521 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 17:17:36,741 - INFO - connection open
+2025-03-17 17:17:36,741 - INFO - New WebSocket connection 2453939018048
+2025-03-17 17:18:48,491 - INFO - server listening on 0.0.0.0:8000
+2025-03-17 17:18:48,532 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 17:18:49,484 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 17:18:49,485 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 17:18:55,050 - INFO - connection open
+2025-03-17 17:18:55,051 - INFO - New WebSocket connection 1899739090288
+2025-03-17 17:20:23,620 - INFO - server listening on 0.0.0.0:8000
+2025-03-17 17:20:23,621 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 17:20:24,615 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 17:20:24,615 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 17:20:29,990 - INFO - connection open
+2025-03-17 17:20:29,991 - INFO - New WebSocket connection 1673479196016
+2025-03-17 17:23:35,346 - INFO - server listening on 0.0.0.0:8000
+2025-03-17 17:23:35,347 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 17:23:36,343 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 17:23:36,344 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 17:23:42,648 - INFO - connection open
+2025-03-17 17:23:42,649 - INFO - New WebSocket connection 2266061868400
+2025-03-17 17:24:26,556 - INFO - server listening on 0.0.0.0:8000
+2025-03-17 17:24:26,557 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 17:24:27,561 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 17:24:27,561 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 17:24:32,954 - INFO - connection open
+2025-03-17 17:24:32,954 - INFO - New WebSocket connection 1897964834160
+2025-03-17 17:29:14,523 - INFO - server listening on 0.0.0.0:8000
+2025-03-17 17:29:14,523 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 17:29:15,515 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 17:29:15,516 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 17:30:54,779 - INFO - server listening on 0.0.0.0:8000
+2025-03-17 17:30:54,780 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 17:30:55,769 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 17:30:55,770 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 17:31:01,275 - INFO - connection open
+2025-03-17 17:31:01,276 - INFO - New WebSocket connection 1290497363312
+2025-03-17 17:34:39,489 - INFO - server listening on 0.0.0.0:8000
+2025-03-17 17:34:39,490 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 17:34:40,483 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 17:34:40,484 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 17:34:46,394 - INFO - connection open
+2025-03-17 17:34:46,394 - INFO - New WebSocket connection 2025435893104
+2025-03-17 17:37:00,347 - INFO - connection open
+2025-03-17 17:37:00,348 - INFO - New WebSocket connection 2025435893632
+2025-03-17 18:12:12,453 - INFO - server listening on 0.0.0.0:8000
+2025-03-17 18:12:12,454 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-17 18:12:13,437 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-03-17 18:12:14,215 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 18:12:20,228 - INFO - connection open
+2025-03-17 18:12:20,229 - INFO - New WebSocket connection 2605964201328
+2025-03-17 18:12:50,658 - INFO - connection open
+2025-03-17 18:12:50,659 - INFO - New WebSocket connection 2605964201856
+2025-03-25 12:34:39,658 - INFO - server listening on 0.0.0.0:8000
+2025-03-25 12:34:39,680 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-25 12:34:40,371 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.3:5000
+2025-03-25 12:34:40,371 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-25 15:44:34,481 - INFO - server listening on 0.0.0.0:8000
+2025-03-25 15:44:34,519 - INFO - WebSocket server started on ws://localhost:8000
+2025-03-25 15:44:35,486 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+2025-03-25 15:44:35,486 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-25 15:44:41,641 - INFO - connection open
+2025-03-25 15:44:41,642 - INFO - New WebSocket connection 1294531409280
+2025-03-25 15:46:01,296 - INFO - connection open
+2025-03-25 15:46:01,297 - INFO - New WebSocket connection 1294531409904
+2025-03-25 16:27:54,652 - INFO - connection open
+2025-03-25 16:27:54,654 - INFO - New WebSocket connection 1294531838112
+2025-03-25 16:34:19,718 - INFO - connection open
+2025-03-25 16:34:19,727 - INFO - New WebSocket connection 1294531838400
+2025-03-25 16:34:20,742 - ERROR - Error deleting temporary file: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmpzcah94v1.pdf'
+2025-03-25 16:34:21,319 - INFO - connection open
+2025-03-25 16:34:21,320 - INFO - New WebSocket connection 1294531409856
+2025-03-25 16:34:22,151 - INFO - connection open
+2025-03-25 16:34:22,152 - INFO - New WebSocket connection 1294531840272
+2025-03-25 16:34:23,171 - ERROR - Error deleting temporary file: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmpz5ef3hvr.pdf'
+2025-03-25 16:36:53,383 - ERROR - Error deleting temporary file: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmpdi024lnb.pdf'
+2025-03-25 16:39:23,575 - ERROR - Error deleting temporary file: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmp9y0a9o7n.pdf'
+2025-03-25 16:41:53,879 - ERROR - Error deleting temporary file: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmpub_ua1gl.pdf'
+2025-03-25 16:43:05,973 - INFO - connection open
+2025-03-25 16:43:05,976 - INFO - New WebSocket connection 1294531841568
+2025-03-25 16:43:26,899 - ERROR - Error deleting temporary file: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmpimov_ukk.pdf'
+2025-03-25 16:44:24,174 - ERROR - Error deleting temporary file: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmpk53hrwq0.pdf'
+2025-03-25 16:46:54,390 - ERROR - Error deleting temporary file: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmpp_72t8i_.pdf'
+2025-03-25 16:47:02,706 - INFO - connection open
+2025-03-25 16:47:02,707 - INFO - New WebSocket connection 1294531843008
+2025-03-25 16:47:03,537 - INFO - connection open
+2025-03-25 16:47:03,538 - INFO - New WebSocket connection 1294531843680
+2025-03-25 16:47:04,551 - ERROR - Error deleting temporary file: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\jayso\\AppData\\Local\\Temp\\tmpbmirauqh.pdf'
